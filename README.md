@@ -12,11 +12,11 @@
 2. **CSC207**: Java software design, utilizing Git version control's power to work in a 6-person team, following Clean Architecture principles to design an accounting system that records users' daily transactions.
 3. **JS, HTML, CSS, and their respective frameworks** for front-end and back-end development.
 
-🌷 I’m seeking opportunities in:
+🌷 I’m seeking COOP opportunities in:
 - Machine Learning (ML)
 - Software Development Engineering (SDE)
-- Data Engineering/Data Analysis (DE/DA) COOP
-
+- Data Engineering/Data Analysis (DE/DA)
+  
 ## 🛠 Tech Stack:
 
 ### Languages
