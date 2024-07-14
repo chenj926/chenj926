@@ -19,9 +19,9 @@
 
 ## 👯 Find Me:
 
-- <img src="https://img.icons8.com/color/48/000000/email.png" width="20"/> [Email](mailto:your-email@example.com)
-- <img src="https://img.icons8.com/color/48/000000/domain.png" width="20"/> [Website](#) (coming soon!)
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/your-profile)
+- <img src="https://img.icons8.com/color/48/000000/email.png" width="20"/> [Email](mailto:jialuo.chen@mail.utoronto.ca)
+- <img src="https://img.icons8.com/color/48/000000/domain.png" width="20"/> [Website] (coming soon!)
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/ericjialuochen/)
   
 ## 🛠 Tech Stack:
 
