@@ -1,16 +1,21 @@
 # Hi there, I'm Jialuo (Eric) Chen 👋
 
-🎓 I'm pursuing a Bachelor of Applied Science and Engineering with PEY COOP Degree in Industrial Engineering, with minors in Artificial Intelligence Engineering, Engineering Business, and Computer Science at University of Toronto
-🌟 My areas of interest include Machine Learning, Stull devlopment, and Data Engineering.
+🎓 I'm pursuing a Bachelor of Applied Science and Engineering with PEY COOP Degree in Industrial Engineering, with minors in Artificial Intelligence Engineering, Engineering Business, and Computer Science at the University of Toronto.
+
+🌟 My areas of interest include:
+- Machine Learning
+- Software Development
+- Data Engineering
+
 🌱 I'm currently learning:
-      1. APS360 for deep learning, collaborating with my team and working on our project of SketchToFace GAN and transfer steches to real human face image. 
-      2. CSC207 for Java software design, utilize git version control's power to work in a 6 people team, following Clean architecture to design a Accounting System that records uses's daily transaction
-      3. JS, HTML, CSS and their according framework for front-end and back-end development
-🌷 I’m seeking opportunities in ML, SDE, and DE/DA COOP.
-## 👯 Find Me:
-- <img src="https://img.icons8.com/color/48/000000/email.png" width="20"/> [Email](mailto:jialou.chen@mail.utoronto.ca)
-- <img src="https://img.icons8.com/color/48/000000/domain.png" width="20"/> [Website] coming soon!
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/ericjialuochen/)
+1. **APS360**: Deep learning, collaborating with my team on our project of SketchToFace GAN to transfer sketches into real human face images.
+2. **CSC207**: Java software design, utilizing Git version control's power to work in a 6-person team, following Clean Architecture principles to design an accounting system that records users' daily transactions.
+3. **JS, HTML, CSS, and their respective frameworks** for front-end and back-end development.
+
+🌷 I’m seeking opportunities in:
+- Machine Learning (ML)
+- Software Development Engineering (SDE)
+- Data Engineering/Data Analysis (DE/DA) COOP
 
 ## 🛠 Tech Stack:
 
