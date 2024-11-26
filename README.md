@@ -41,43 +41,56 @@
   
 ## 🛠 Tech Stack:
 
-### Languages
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sqlite)
 ![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
-![SPARQL](https://img.shields.io/badge/-SPARQL-333?style=flat&logo=w3c)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
+![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-333?style=flat&logo=gnu-bash)
 
-### Libraries and Frameworks
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-333?style=flat&logo=jupyter)
-![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat&logo=nltk)
-![SimPy](https://img.shields.io/badge/-SimPy-333?style=flat)
-
-### Tools and Databases
+### Technologies
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333?style=flat&logo=intellij-idea)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333?style=flat&logo=spring-boot)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
-![Gurobi](https://img.shields.io/badge/-Gurobi-333?style=flat)
-![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![jQuery](https://img.shields.io/badge/-jQuery-333?style=flat&logo=jquery)
+![JDBC](https://img.shields.io/badge/-JDBC-333?style=flat&logo=java)
+![Hibernate](https://img.shields.io/badge/-Hibernate-333?style=flat&logo=hibernate)
+![JPA](https://img.shields.io/badge/-JPA-333?style=flat&logo=java)
+![JUnit](https://img.shields.io/badge/-JUnit-333?style=flat&logo=junit5)
+![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest)
+![XML](https://img.shields.io/badge/-XML-333?style=flat&logo=xml)
+![RESTful API](https://img.shields.io/badge/-RESTful_API-333?style=flat&logo=rest)
+
+### Concepts
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- UML
+- Test Driven Development (TDD)
+- Responsive Design
+- Communication
+- Teamwork
+- Problem-Solving
+- Collaboration
+- Leadership
+- Microsoft 365
+
 
 ## 📊 GitHub Stats:
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&theme=radical)
