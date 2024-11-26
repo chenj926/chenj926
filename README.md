@@ -8,9 +8,25 @@
 - Data Engineering
 
 🌱 I'm currently learning:
-1. **APS360**: Deep learning, collaborating with my team on our project of SketchToFace GAN to transfer sketches into real human face images.
-2. **CSC207**: Java software design, utilizing Git version control's power to work in a 6-person team, following Clean Architecture principles to design an accounting system that records users' daily transactions.
-3. **JS, HTML, CSS, and their respective frameworks** for front-end and back-end development.
+1. **MIE353H1: Data Modelling**
+   - Developing a deep understanding of information modelling and data management principles, focusing on relational theory and SQL database systems. Engaging in database application development using SQL DBMS, OLAP queries, and data modelling techniques. Exploring advanced topics like graph databases (RDF, SPARQL, and knowledge graphs) and UML class diagrams.
+
+2. **MIE358H1: Engineering Economics**
+   - Learning to analyze and solve decision-making problems involving economic concepts in engineering projects. Evaluating alternatives based on costs and benefits over time, and incorporating factors like interest, depreciation, taxes, inflation, and risk into quantitative analyses to make informed decisions.
+
+3. **MIE360H1: Systems Modelling and Simulation**
+   - Studying principles for developing, testing, and utilizing discrete event simulation models to improve system performance. Gaining proficiency in simulation languages, random variable generation, model verification and validation, and statistical methods for analyzing simulation outputs. Applying optimization techniques in simulation studies.
+
+4. **MIE365H1: Advanced Operations Research**
+   - Exploring advanced topics in operations research, including linear programming extensions, game theory applications, quadratic programming, stochastic programming, and reinforcement learning. Focusing on mathematical programming formulation choices and the evolution of dynamic programming into Markov decision processes.
+
+5. **MIE370H1: Introduction to Machine Learning**
+   - Diving into machine learning concepts such as hypothesis spaces, inductive bias, and both supervised and unsupervised learning. Studying algorithms including linear and logistic regression, SVMs, clustering, PCA, decision trees, ensembles, random forests, and neural networks. Addressing engineering design considerations for deployment, including explainability, interpretability, bias, fairness, accountability, ethics, feedback loops, and technical debt.
+
+6. **JRE300H1: Fundamentals of Accounting and Finance**
+   - Acquiring foundational knowledge in accounting and corporate finance. Learning to read and analyze financial statements, understand management accounting concepts, and explore various costing methods for decision-making. Gaining skills in financial projections, valuation of complex investment opportunities, risk management techniques, and project valuation in the context of corporate mergers.
+
+7. **React, Springboot, flask and their respective frameworks** for front-end and back-end development.
 
 🌷 I’m seeking COOP opportunities in:
 - Machine Learning (ML)
@@ -52,5 +68,7 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333?style=flat&logo=intellij-idea)
 
 ## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&theme=radical)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&theme=radical)
+![Eric's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chenj926&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenj926&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chenj926&theme=radical)
