@@ -47,25 +47,37 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Latex](https://img.shields.io/badge/-Latex-333?style=flat&logo=latex)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
+![SPARQL](https://img.shields.io/badge/-SPARQL-333?style=flat&logo=w3c)
 
 ### Libraries and Frameworks
-![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat&logo=nltk)
-![Numpy](https://img.shields.io/badge/-Numpy-333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-333?style=flat&logo=jupyter)
+![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat&logo=nltk)
+![SimPy](https://img.shields.io/badge/-SimPy-333?style=flat)
 
-### Tools
+### Tools and Databases
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-333?style=flat&logo=intellij-idea)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333?style=flat&logo=intellij-idea)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![Gurobi](https://img.shields.io/badge/-Gurobi-333?style=flat)
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 
 ## 📊 GitHub Stats:
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&theme=radical)
