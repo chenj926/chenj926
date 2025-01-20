@@ -92,6 +92,9 @@
 - Microsoft 365
 
 ## 📊 GitHub Stats:
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&count_private=true&include_all_commits=true&theme=radical&custom_title=Jialuo's%20GitHub%20Stats&hide_title=false&hide_border=true&token=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)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&count_private=true&include_all_commits=true&theme=radical&custom_title=Jialuo's%20GitHub%20Stats&hide_title=false&hide_border=true)
+
 ![Eric's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chenj926&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chenj926&theme=radical&row=1&column=6&no-frame=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenj926&layout=compact&langs_count=20&theme=radical)
+
