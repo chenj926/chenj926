@@ -26,7 +26,7 @@
 6. **JRE300H1: Fundamentals of Accounting and Finance**
    - Acquiring foundational knowledge in accounting and corporate finance. Learning to read and analyze financial statements, understand management accounting concepts, and explore various costing methods for decision-making. Gaining skills in financial projections, valuation of complex investment opportunities, risk management techniques, and project valuation in the context of corporate mergers.
 
-7. **React, Springboot, flask and their respective frameworks** for front-end and back-end development.
+7. **React, Springboot, Flask and their respective frameworks** for front-end and back-end development.
 
 🌷 I’m seeking COOP opportunities in:
 - Machine Learning (ML)
@@ -38,7 +38,7 @@
 - <img src="https://img.icons8.com/color/48/000000/email.png" width="20"/> [Email](mailto:jialuo.chen@mail.utoronto.ca)
 - <img src="https://img.icons8.com/color/48/000000/domain.png" width="20"/> [Website](https://chenj926.github.io/portfolio/)
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/ericjialuochen/)
-  
+
 ## 🛠 Tech Stack:
 
 ### Programming Languages
@@ -91,9 +91,7 @@
 - Leadership
 - Microsoft 365
 
-
 ## 📊 GitHub Stats:
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&theme=radical)
-![Eric's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chenj926&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenj926&layout=compact&theme=radical)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Eric's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chenj926&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chenj926&theme=radical)
