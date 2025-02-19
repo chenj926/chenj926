@@ -8,80 +8,61 @@
 - Data Engineering
 
 🌱 I'm currently learning:
-## MIE350H1: Design and Analysis of Information Systems  
-**Credit Value:** 0.50  
-**Hours:** 38.4L / 12.8T / 12.8P  
+1. **MIE350H1: Design and Analysis of Information Systems**  
+   I am learning about the complete software lifecycle with a strong emphasis on a user-centered approach. Key topics include:  
+   - **Software Development Methodologies:** I explore agile, waterfall, and hybrid approaches for structuring projects.  
+   - **Requirements Engineering & Use Case Analysis:** I learn techniques to effectively gather, analyze, and document both user and system requirements.  
+   - **Process Modelling & Data Flow Diagrams:** I visualize system processes using standardized diagrams to ensure clear communication.  
+   - **UML & Model-Driven Architecture:** I gain hands-on experience with UML for designing and implementing robust, scalable systems.  
+   - **User-Centered Design & Communication:** I focus on effective collaboration and ensuring the end-user remains central throughout the development process.  
 
-**Description:**  
-This course takes you through the complete software lifecycle with a strong emphasis on a user-centered approach. Key topics include:  
-- **Software Development Methodologies:** Explore agile, waterfall, and hybrid approaches for structuring projects.  
-- **Requirements Engineering & Use Case Analysis:** Learn techniques to effectively gather, analyze, and document both user and system requirements.  
-- **Process Modelling & Data Flow Diagrams:** Visualize system processes using standardized diagrams to ensure clear communication.  
-- **UML & Model-Driven Architecture:** Gain hands-on experience with UML for designing and implementing robust, scalable systems.  
-- **User-Centered Design & Communication:** Focus on effective collaboration and ensuring the end-user remains central throughout the development process.  
+   By integrating these principles, I learn how to design and analyze information systems that are not only technically sound but also highly responsive to user needs.
 
-By integrating these principles, you’ll learn how to design and analyze information systems that are not only technically sound but also highly responsive to user needs.
+2. **MIE363H1: Operations and Supply Chain Management**  
+   I am gaining an in-depth look into the inner workings of production and service systems, with a focus on analytical and modeling techniques. Topics include:  
+   - **System Modeling:** I understand how to represent material flows, information pathways, and control systems in production environments.  
+   - **Demand Forecasting & Inventory Management:** I learn methods for predicting demand and managing inventory to optimize operations.  
+   - **Supply Chain & Capacity Planning:** I explore strategies to manage supply chains efficiently and plan capacity in dynamic environments.  
+   - **Lot Size & Production Planning:** I apply analytical methods to determine optimal batch sizes and streamline production processes.  
 
----
+   Emphasizing real-world applications, I tackle open-ended design problems using both quantitative and qualitative methods to enhance operational efficiency.
 
-## MIE363H1: Operations and Supply Chain Management  
-**Description:**  
-This course provides an in-depth look into the inner workings of production and service systems, with a focus on analytical and modeling techniques. Topics include:  
-- **System Modeling:** Understand how to represent material flows, information pathways, and control systems in production environments.  
-- **Demand Forecasting & Inventory Management:** Learn methods for predicting demand and managing inventory to optimize operations.  
-- **Supply Chain & Capacity Planning:** Explore strategies to manage supply chains efficiently and plan capacity in dynamic environments.  
-- **Lot Size & Production Planning:** Apply analytical methods to determine optimal batch sizes and streamline production processes.  
+3. **MIE359H1: Organization Design**  
+   I am studying the design of work systems and organizational structures, blending theory with practical case studies. It covers:  
+   - **Fundamental Organizational Theories:** I examine topics such as structure, lifecycle, culture, and ethics.  
+   - **Application to Real-World Scenarios:** I analyze case studies to understand how concepts like bureaucracy, incentives, and innovation shape organizations.  
+   - **Modern Organizational Trends:** I discuss international business challenges, technology trends, and evolving hiring practices.  
 
-Emphasizing real-world applications, you’ll tackle open-ended design problems using both quantitative and qualitative methods to enhance operational efficiency.
+   Through a comprehensive exploration of both new and existing organizations, I learn to apply theoretical frameworks to design effective and adaptable work systems.
 
----
+4. **MIE369H1: Introduction to Artificial Intelligence**  
+   I am diving into the fundamentals of AI in this introductory course that covers both theory and practical aspects. Topics include:  
+   - **Search & Constraint Satisfaction:** I understand foundational algorithms for exploring solution spaces and solving complex problems.  
+   - **Logical Knowledge Representation:** I study propositional and first-order logic to represent and reason about knowledge.  
+   - **Handling Uncertainty:** I learn how Bayesian networks can model uncertainty in real-world situations.  
+   - **Decision Making & Reinforcement Learning:** I explore rational decision-making processes and the basics of reinforcement learning for sequential decision problems.  
+   - **Ethics and Safety in AI:** I engage with the ethical implications and safety considerations as AI moves from theory to engineering practice.  
 
-## MIE359H1: Organization Design  
-**Description:**  
-This course delves into the design of work systems and organizational structures, blending theory with practical case studies. It covers:  
-- **Fundamental Organizational Theories:** Examine topics such as structure, lifecycle, culture, and ethics.  
-- **Application to Real-World Scenarios:** Analyze case studies to understand how concepts like bureaucracy, incentives, and innovation shape organizations.  
-- **Modern Organizational Trends:** Discuss international business challenges, technology trends, and evolving hiring practices.  
+   This course sets the stage for advanced AI studies by building a solid foundation in both the conceptual and practical dimensions of intelligent systems.
 
-Through a comprehensive exploration of both new and existing organizations, you’ll learn to apply theoretical frameworks to design effective and adaptable work systems.
+5. **CSC209H1: Software Tools and Systems Programming**  
+   I am learning to bridge the gap between high-level programming and low-level system operations in a Unix-style environment. Topics include:  
+   - **Unix Tools & Shell Scripting:** I master the use of command-line utilities, scripting languages, and pipelines to automate tasks.  
+   - **C Programming & System-Level Concepts:** I get acquainted with machine-oriented programming, exploring how operating systems manage processes, signals, and system calls.  
+   - **File Processing & Basic Network Programming:** I learn practical techniques for file manipulation and develop an introductory understanding of network programming.  
 
----
+   This course provides essential skills for creating and utilizing software tools that enhance my productivity and deepen my understanding of system internals.
 
-## MIE369H1: Introduction to Artificial Intelligence  
-**Description:**  
-Dive into the fundamentals of AI in this introductory course that covers both theory and practical aspects. Topics include:  
-- **Search & Constraint Satisfaction:** Understand foundational algorithms for exploring solution spaces and solving complex problems.  
-- **Logical Knowledge Representation:** Study propositional and first-order logic to represent and reason about knowledge.  
-- **Handling Uncertainty:** Learn how Bayesian networks can model uncertainty in real-world situations.  
-- **Decision Making & Reinforcement Learning:** Explore rational decision-making processes and the basics of reinforcement learning for sequential decision problems.  
-- **Ethics and Safety in AI:** Engage with the ethical implications and safety considerations as AI moves from theory to engineering practice.  
+6. **CSC165H1: Mathematical Expression and Reasoning for Computer Science**  
+   I am building a strong foundation in the mathematical rigor and abstraction necessary for computer science. I cover:  
+   - **Logical Notation & Rigorous Reasoning:** I develop fluency in formal logic, learning how to construct and communicate precise mathematical arguments.  
+   - **Proof Techniques:** I explore different methods of structuring proofs to ensure clarity and rigor in my reasoning.  
+   - **Algorithm Analysis & Big-Oh Notation:** I gain insights into algorithm efficiency through running time analysis and formal definitions of computational complexity.  
+   - **Core Theoretical Concepts:** I delve into topics such as diagonalization, the Halting Problem, and reductions, which are pivotal in theoretical computer science.  
 
-This course sets the stage for advanced AI studies by building a solid foundation in both the conceptual and practical dimensions of intelligent systems.
+   By unifying practical programming with theoretical underpinnings, I equip myself with the analytical skills essential for advanced problem-solving in computer science.
 
----
-
-## CSC209H1: Software Tools and Systems Programming  
-**Description:**  
-In this hands-on course, you will bridge the gap between high-level programming and low-level system operations in a Unix-style environment. Topics include:  
-- **Unix Tools & Shell Scripting:** Master the use of command-line utilities, scripting languages, and pipelines to automate tasks.  
-- **C Programming & System-Level Concepts:** Get acquainted with machine-oriented programming, exploring how operating systems manage processes, signals, and system calls.  
-- **File Processing & Basic Network Programming:** Learn practical techniques for file manipulation and develop an introductory understanding of network programming.  
-
-This course provides essential skills for creating and utilizing software tools that enhance your productivity and deepen your understanding of system internals.
-
----
-
-## CSC165H1: Mathematical Expression and Reasoning for Computer Science  
-**Description:**  
-This course builds a strong foundation in the mathematical rigor and abstraction necessary for computer science. You’ll cover:  
-- **Logical Notation & Rigorous Reasoning:** Develop fluency in formal logic, learning how to construct and communicate precise mathematical arguments.  
-- **Proof Techniques:** Explore different methods of structuring proofs to ensure clarity and rigor in your reasoning.  
-- **Algorithm Analysis & Big-Oh Notation:** Gain insights into algorithm efficiency through running time analysis and formal definitions of computational complexity.  
-- **Core Theoretical Concepts:** Delve into topics such as diagonalization, the Halting Problem, and reductions, which are pivotal in theoretical computer science.  
-
-By unifying practical programming with theoretical underpinnings, this course equips you with the analytical skills essential for advanced problem-solving in computer science.
-
-## **TypeScript, Springboot, Flask and their respective frameworks** for front-end and back-end development.
+7. **TypeScript, Springboot, Flask and their respective frameworks** for front-end and back-end development.
 
 🌷 I’m seeking COOP opportunities in:
 - Machine Learning (ML)
