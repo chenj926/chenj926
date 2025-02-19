@@ -8,25 +8,80 @@
 - Data Engineering
 
 🌱 I'm currently learning:
-1. **MIE353H1: Data Modelling**
-   - Developing a deep understanding of information modelling and data management principles, focusing on relational theory and SQL database systems. Engaging in database application development using SQL DBMS, OLAP queries, and data modelling techniques. Exploring advanced topics like graph databases (RDF, SPARQL, and knowledge graphs) and UML class diagrams.
+## MIE350H1: Design and Analysis of Information Systems  
+**Credit Value:** 0.50  
+**Hours:** 38.4L / 12.8T / 12.8P  
 
-2. **MIE358H1: Engineering Economics**
-   - Learning to analyze and solve decision-making problems involving economic concepts in engineering projects. Evaluating alternatives based on costs and benefits over time, and incorporating factors like interest, depreciation, taxes, inflation, and risk into quantitative analyses to make informed decisions.
+**Description:**  
+This course takes you through the complete software lifecycle with a strong emphasis on a user-centered approach. Key topics include:  
+- **Software Development Methodologies:** Explore agile, waterfall, and hybrid approaches for structuring projects.  
+- **Requirements Engineering & Use Case Analysis:** Learn techniques to effectively gather, analyze, and document both user and system requirements.  
+- **Process Modelling & Data Flow Diagrams:** Visualize system processes using standardized diagrams to ensure clear communication.  
+- **UML & Model-Driven Architecture:** Gain hands-on experience with UML for designing and implementing robust, scalable systems.  
+- **User-Centered Design & Communication:** Focus on effective collaboration and ensuring the end-user remains central throughout the development process.  
 
-3. **MIE360H1: Systems Modelling and Simulation**
-   - Studying principles for developing, testing, and utilizing discrete event simulation models to improve system performance. Gaining proficiency in simulation languages, random variable generation, model verification and validation, and statistical methods for analyzing simulation outputs. Applying optimization techniques in simulation studies.
+By integrating these principles, you’ll learn how to design and analyze information systems that are not only technically sound but also highly responsive to user needs.
 
-4. **MIE365H1: Advanced Operations Research**
-   - Exploring advanced topics in operations research, including linear programming extensions, game theory applications, quadratic programming, stochastic programming, and reinforcement learning. Focusing on mathematical programming formulation choices and the evolution of dynamic programming into Markov decision processes.
+---
 
-5. **MIE370H1: Introduction to Machine Learning**
-   - Diving into machine learning concepts such as hypothesis spaces, inductive bias, and both supervised and unsupervised learning. Studying algorithms including linear and logistic regression, SVMs, clustering, PCA, decision trees, ensembles, random forests, and neural networks. Addressing engineering design considerations for deployment, including explainability, interpretability, bias, fairness, accountability, ethics, feedback loops, and technical debt.
+## MIE363H1: Operations and Supply Chain Management  
+**Description:**  
+This course provides an in-depth look into the inner workings of production and service systems, with a focus on analytical and modeling techniques. Topics include:  
+- **System Modeling:** Understand how to represent material flows, information pathways, and control systems in production environments.  
+- **Demand Forecasting & Inventory Management:** Learn methods for predicting demand and managing inventory to optimize operations.  
+- **Supply Chain & Capacity Planning:** Explore strategies to manage supply chains efficiently and plan capacity in dynamic environments.  
+- **Lot Size & Production Planning:** Apply analytical methods to determine optimal batch sizes and streamline production processes.  
 
-6. **JRE300H1: Fundamentals of Accounting and Finance**
-   - Acquiring foundational knowledge in accounting and corporate finance. Learning to read and analyze financial statements, understand management accounting concepts, and explore various costing methods for decision-making. Gaining skills in financial projections, valuation of complex investment opportunities, risk management techniques, and project valuation in the context of corporate mergers.
+Emphasizing real-world applications, you’ll tackle open-ended design problems using both quantitative and qualitative methods to enhance operational efficiency.
 
-7. **React, Springboot, Flask and their respective frameworks** for front-end and back-end development.
+---
+
+## MIE359H1: Organization Design  
+**Description:**  
+This course delves into the design of work systems and organizational structures, blending theory with practical case studies. It covers:  
+- **Fundamental Organizational Theories:** Examine topics such as structure, lifecycle, culture, and ethics.  
+- **Application to Real-World Scenarios:** Analyze case studies to understand how concepts like bureaucracy, incentives, and innovation shape organizations.  
+- **Modern Organizational Trends:** Discuss international business challenges, technology trends, and evolving hiring practices.  
+
+Through a comprehensive exploration of both new and existing organizations, you’ll learn to apply theoretical frameworks to design effective and adaptable work systems.
+
+---
+
+## MIE369H1: Introduction to Artificial Intelligence  
+**Description:**  
+Dive into the fundamentals of AI in this introductory course that covers both theory and practical aspects. Topics include:  
+- **Search & Constraint Satisfaction:** Understand foundational algorithms for exploring solution spaces and solving complex problems.  
+- **Logical Knowledge Representation:** Study propositional and first-order logic to represent and reason about knowledge.  
+- **Handling Uncertainty:** Learn how Bayesian networks can model uncertainty in real-world situations.  
+- **Decision Making & Reinforcement Learning:** Explore rational decision-making processes and the basics of reinforcement learning for sequential decision problems.  
+- **Ethics and Safety in AI:** Engage with the ethical implications and safety considerations as AI moves from theory to engineering practice.  
+
+This course sets the stage for advanced AI studies by building a solid foundation in both the conceptual and practical dimensions of intelligent systems.
+
+---
+
+## CSC209H1: Software Tools and Systems Programming  
+**Description:**  
+In this hands-on course, you will bridge the gap between high-level programming and low-level system operations in a Unix-style environment. Topics include:  
+- **Unix Tools & Shell Scripting:** Master the use of command-line utilities, scripting languages, and pipelines to automate tasks.  
+- **C Programming & System-Level Concepts:** Get acquainted with machine-oriented programming, exploring how operating systems manage processes, signals, and system calls.  
+- **File Processing & Basic Network Programming:** Learn practical techniques for file manipulation and develop an introductory understanding of network programming.  
+
+This course provides essential skills for creating and utilizing software tools that enhance your productivity and deepen your understanding of system internals.
+
+---
+
+## CSC165H1: Mathematical Expression and Reasoning for Computer Science  
+**Description:**  
+This course builds a strong foundation in the mathematical rigor and abstraction necessary for computer science. You’ll cover:  
+- **Logical Notation & Rigorous Reasoning:** Develop fluency in formal logic, learning how to construct and communicate precise mathematical arguments.  
+- **Proof Techniques:** Explore different methods of structuring proofs to ensure clarity and rigor in your reasoning.  
+- **Algorithm Analysis & Big-Oh Notation:** Gain insights into algorithm efficiency through running time analysis and formal definitions of computational complexity.  
+- **Core Theoretical Concepts:** Delve into topics such as diagonalization, the Halting Problem, and reductions, which are pivotal in theoretical computer science.  
+
+By unifying practical programming with theoretical underpinnings, this course equips you with the analytical skills essential for advanced problem-solving in computer science.
+
+## **TypeScript, Springboot, Flask and their respective frameworks** for front-end and back-end development.
 
 🌷 I’m seeking COOP opportunities in:
 - Machine Learning (ML)
