@@ -2,6 +2,12 @@
   "username": "chenj926",
   "as_of": "2026-10-11",
   "scope": "Owned public non-fork repositories, default branches; configured repositories excluded.",
+  "excluded_repositories": [
+    "chenj926",
+    "small-MLE-proj",
+    "skinMatch_Frontend",
+    "skinMatchFrontend"
+  ],
   "measurement": "GitHub Linguist source bytes, replacing raw notebook bytes with code-cell UTF-8 source attributed to the kernel language. Not personally authored lines or proficiency.",
   "contributions": [
     {
@@ -1826,8 +1832,8 @@
     },
     {
       "date": "2026-10-11",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     }
   ],
   "languages": {
@@ -2169,11 +2175,5 @@
       "github_notebook_bytes": 0,
       "notebooks": []
     }
-  ],
-  "excluded_repositories": [
-    "chenj926",
-    "small-MLE-proj",
-    "skinMatch_Frontend",
-    "skinMatchFrontend"
   ]
 }
