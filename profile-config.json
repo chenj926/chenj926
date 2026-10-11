@@ -1,0 +1,5 @@
+{
+  "username": "chenj926",
+  "exclude_repositories": ["chenj926", "small-MLE-proj", "skinMatch_Frontend", "skinMatchFrontend"],
+  "max_languages": 10
+}

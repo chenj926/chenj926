@@ -1,91 +1,99 @@
-# Hi there, I'm Jialuo (Eric) Chen 👋
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/header-light.svg">
+  <img alt="Jialuo (Eric) Chen — AI research and software engineering" src="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/header-dark.svg" width="100%">
+</picture>
 
-🎓 I'm pursuing a Bachelor of Applied Science and Engineering with PEY COOP Degree in Industrial Engineering, with minors in Artificial Intelligence Engineering, Engineering Business, and Computer Science at the University of Toronto.
+<p align="center">
+  <a href="https://chenj926.github.io/portfolio/">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/ericjialuochen/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:jialuo.chen@mail.utoronto.ca">Email</a>
+</p>
 
-🌟 My areas of interest include:
-- Machine Learning
-- Software Development
-- Data Engineering
+I build AI systems that connect **learning, decision-making, and reliable software** — from Bayesian optimization and LLM experiments to conversational applications grounded in the physical world.
 
-## 🔬 What I’m doing now
-- **Machine Learning Research Assistant — JB Research Group (UofT)**  
-  Working on **Gaussian Processes** and **Bayesian Optimization** (PyTorch/GPyTorch): n-D surrogates, improved training, and entropy-based acquisition under uncertainty.
+**University of Toronto · Industrial Engineering · Class of 2027**<br>
+BASc with PEY Co-op, focused on AI & ML. Minors in **Computer Science**, **Artificial Intelligence in Engineering**, and **Engineering Business**.
 
-- **Junior Software Developer — JANA Corporation**  
-  Building features for a risk-analytics platform: **TypeScript + Redux** on the WIS UI and **C#/.NET + Python** on backend models (calibration and simulation).
+### Building, day by day
 
-## 🧪 Projects (selected)
-- **LineToLive: Sketch→Face GAN** · PyTorch, U-Net/PatchGAN — clearer sketch-to-photo synthesis for investigation scenarios.  
-- **OpenStreetMap A\*** · Java — A\*, Greedy, UCS over 30k+ nodes to optimize Toronto routes.  
-- **MCTS Variants in Java** — variance-aware UCB and blended Bellman/MC backprop for more stable rewards.
+<a href="https://github.com/chenj926?tab=overview">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/contributions-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/contributions-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/contributions-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/contributions-light.svg">
+    <img alt="Daily GitHub contribution calendar over the past year" src="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/contributions-dark.svg" width="100%">
+  </picture>
+</a>
 
-## 👯 Find Me:
+### What I'm working on
 
-- <img src="https://img.icons8.com/color/48/000000/email.png" width="20"/> [Email](mailto:jialuo.chen@mail.utoronto.ca)
-- <img src="https://img.icons8.com/color/48/000000/domain.png" width="20"/> [Website](https://chenj926.github.io/portfolio/)
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/ericjialuochen/)
+- **Embodied AI · D3M Lab, University of Toronto**<br>
+  Co-leading a Quest 3 conversational recommendation system with persistent **3D world state**. My work spans **RGB-D object ReID**, versioned asynchronous updates, and software interfaces; current capstone work extends into localization and relocalization. The ReID pipeline reached **98.3% accuracy in controlled shoe/chair tests**.
 
-## 🛠 Tech Stack:
+- **Efficient sequence models · Li Shuai Research Lab, SJTU**<br>
+  Researching **linear attention**, selective context retrieval, and memory-update objectives, alongside **hidden-state steering** for mathematical reasoning. [Steering experiments ↗](https://github.com/chenj926/reasoning_hidden_state)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sqlite)
-![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
-![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-333?style=flat&logo=gnu-bash)
+- **Decision-making under uncertainty · Undergraduate thesis**<br>
+  Developing **Role-Aware Bayesian Optimization under Uncertainty (RA-BOUU)** with Prof. Justin Beland: role-aware surrogates, multi-scale execution kernels, and simulator evaluations aimed at expected deployment performance.
 
-### Technologies
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![.NET](https://img.shields.io/badge/-.NET-333?style=flat&logo=dotnet)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-333?style=flat&logo=dotnet)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333?style=flat&logo=spring-boot)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-333?style=flat&logo=redux)
-![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333?style=flat&logo=redux)
-![React Redux](https://img.shields.io/badge/-React_Redux-333?style=flat&logo=redux)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![JDBC](https://img.shields.io/badge/-JDBC-333?style=flat&logo=java)
-![Hibernate](https://img.shields.io/badge/-Hibernate-333?style=flat&logo=hibernate)
-![JPA](https://img.shields.io/badge/-JPA-333?style=flat&logo=java)
-![JUnit](https://img.shields.io/badge/-JUnit-333?style=flat&logo=junit5)
-![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest)
-![XML](https://img.shields.io/badge/-XML-333?style=flat&logo=xml)
-![RESTful API](https://img.shields.io/badge/-RESTful_API-333?style=flat&logo=rest)
+Previously, **Junior Software Developer at JANA Corporation (May 2025–May 2026)**: Python reliability modeling, React/TypeScript risk-simulation workflows, and C#/.NET data-export fixes backed by regression tests.
 
-### Concepts
-- Clean Architecture
-- SOLID Principles
-- Design Patterns
-- UML
-- Test Driven Development (TDD)
-- Responsive Design
-- Communication
-- Teamwork
-- Problem-Solving
-- Collaboration
-- Leadership
-- Microsoft 365
+### Selected builds
 
-## 📊 GitHub Stats:
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chenj926&show_icons=true&count_private=true&include_all_commits=true&theme=radical&custom_title=Jialuo's%20GitHub%20Stats&hide_title=false&hide_border=true)
+| Project | What I built | Core tools |
+| :--- | :--- | :--- |
+| **[NeuroCommute](https://github.com/chenj926/NeuroCommute)** · [Demo](https://youtu.be/t_QWe_1ukOA) | Conversational Toronto route planning: transfer-aware A*, ranked alternatives, and preferences refined through feedback. **6,500+ locations · 45,000+ connections.** | Python · FastAPI · Next.js · LLMs |
+| **[HMITL](https://github.com/chenj926/ICHI_AgentDS_clai)** · [Paper](https://doi.org/10.1109/ICHI69079.2026.00156) | Manager-governed human–LLM iteration for reproducible healthcare ML, with data-integrity guardrails, deterministic evaluation, acceptance, and rollback. | Python · ML evaluation · LLM workflows |
+| **[ADHD Scholarship Copilot](https://github.com/chenj926/adhd-scholarship-copilot)** | Chrome extension that turns dense application instructions into concrete first steps, with RAG-assisted requirement extraction and a Focus Shield. | JavaScript · FastAPI · Claude · ChromaDB |
+| **[LineToLive](https://github.com/chenj926/APS360_Group18_SketchToFace_GAN)** | Three-stage sketch-to-face GAN separating structure reconstruction, colorization, and refinement; evaluated against Pix2Pix. | PyTorch · U-Net · PatchGAN |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenj926&layout=compact&langs_count=20&theme=radical&exclude_repo=small-MLE-proj,skinMatch_Frontend,skinMatchFrontend)
+### Research output
 
-![Eric's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chenj926&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
+- **HMITL: Manager-Governed LLM Iteration with Guardrails and Rollback for Reproducible Healthcare Machine Learning Pipelines**<br>
+  Jialuo Chen, Haijing Wang, Siyu Shao · **IEEE ICHI 2026**, pp. 1218–1226. [Paper](https://doi.org/10.1109/ICHI69079.2026.00156) · [Code](https://github.com/chenj926/ICHI_AgentDS_clai)
+- **Role-Aware Learning for Bayesian Optimization under Uncertainty**<br>
+  Jialuo Chen, Justin Beland · Manuscript under review.
+
+### This semester
+
+| Course | Current focus |
+| :--- | :--- |
+| **[MIE490 · Capstone Design](https://engineering.calendar.utoronto.ca/course/mie490y1)** | Persistent scene understanding, localization/relocalization, and integration for embodied conversational AI. |
+| **[MIE451 · Decision Support Systems](https://engineering.calendar.utoronto.ca/course/mie451h1)** | Information retrieval, sparse/dense ranking and rank fusion, recommender systems, and retrieval evaluation. |
+| **[MIE524 · Data Mining](https://engineering.calendar.utoronto.ca/course/mie524h1)** | Scalable data mining with MapReduce/Spark, association rules, similarity search, and large-scale learning. |
+
+### Tools I reach for
+
+| Area | Stack |
+| :--- | :--- |
+| **ML & research** | Python · PyTorch · GPyTorch · scikit-learn · NumPy/pandas · OpenCV · CUDA |
+| **Applications & data** | TypeScript/JavaScript · React · FastAPI · C#/.NET · Java/Spring · SQL · PostgreSQL · ChromaDB · Spark |
+| **Engineering** | Git · Docker · Linux · Interface design · Regression testing · Ablation studies |
+
+### Languages, measured from source
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/languages-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/languages-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/languages-light.svg">
+  <img alt="Language distribution by source bytes, counting notebook code cells without outputs or metadata" src="https://raw.githubusercontent.com/chenj926/chenj926/main/assets/languages-dark.svg" width="100%">
+</picture>
+
+<details>
+<summary>How these visuals are measured</summary>
+
+The contribution calendar uses the dated cells and counts from **GitHub's public profile calendar**. Contributions include commits, pull requests, issues, and reviews; private activity is visible only to the extent GitHub shares it publicly.
+
+Language percentages cover **my owned public, non-fork repositories on their default branches**, excluding this profile repository and the existing exclusions: `small-MLE-proj`, `skinMatch_Frontend`, and `skinMatchFrontend`. Ordinary source files use GitHub Linguist's byte counts. For notebooks, raw `.ipynb` bytes are replaced with **UTF-8 source from code cells**, attributed to the declared kernel language. Outputs, embedded images, Markdown cells, execution counts, and JSON metadata have no weight. Unidentified kernels retain a source-only “Jupyter Notebook” category.
+
+This is a repository source distribution, not a measure of individual authorship, time spent, or proficiency. Forks and private research repositories are outside its scope.
+
+Both charts refresh daily through [GitHub Actions](https://github.com/chenj926/chenj926/actions/workflows/profile.yml). [Source and configuration](scripts/update_profile.py) · [Measurement snapshot](assets/profile-data.json).
+
+</details>
 
