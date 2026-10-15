@@ -116,7 +116,8 @@ def contribution_days(username):
     days = parser.days()
     first, last = (date.fromisoformat(days[i]["date"]) for i in (0, -1))
     expected = (last - first).days + 1
-    if len(days) != expected or not 364 <= expected <= 367:
+    # GitHub's week-aligned calendar can span all 53 weeks (371 days).
+    if len(days) != expected or not 364 <= expected <= 371:
         raise ValueError("GitHub did not return a complete one-year contribution calendar")
     if abs((date.today() - last).days) > 2:
         raise ValueError("GitHub returned a stale contribution calendar")
@@ -376,3 +377,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
