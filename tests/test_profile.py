@@ -1,6 +1,8 @@
 import importlib.util
+from datetime import date, timedelta
 from pathlib import Path
 import unittest
+from unittest.mock import patch
 
 spec = importlib.util.spec_from_file_location("profile", Path(__file__).resolve().parents[1] / "scripts/update_profile.py")
 profile = importlib.util.module_from_spec(spec)
@@ -55,5 +57,62 @@ class ContributionTests(unittest.TestCase):
             parser.days()
 
 
+class ContributionCalendarTests(unittest.TestCase):
+    def fetch_calendar(self, length, *, first=date(2025, 10, 12), omit=None, today=None):
+        last = first + timedelta(days=length - 1)
+        html = "".join(
+            f'<td id="day-{i}" data-date="{first + timedelta(days=i)}" data-level="0"></td>'
+            f'<tool-tip for="day-{i}">No contributions</tool-tip>'
+            for i in range(length) if i != omit
+        ).encode()
+        with patch.object(profile, "get", return_value=html) as get, \
+                patch.object(profile, "date", wraps=date) as clock:
+            clock.today.return_value = today if today is not None else last
+            days = profile.contribution_days("chenj926")
+            get.assert_called_once_with("https://github.com/users/chenj926/contributions")
+            return days
+
+    def test_native_window_accepts_every_day_of_the_week(self):
+        # 52 complete weeks plus Sunday through the current weekday.
+        for length in range(365, 372):
+            with self.subTest(length=length):
+                days = self.fetch_calendar(length)
+                self.assertEqual(len(days), length)
+                self.assertEqual(days[0]["date"], "2025-10-12")
+                self.assertEqual(days[-1]["date"], str(date(2025, 10, 12) + timedelta(days=length - 1)))
+                self.assertTrue(all(day["count"] == 0 for day in days))
+
+    def test_existing_lower_bound_is_preserved(self):
+        self.assertEqual(len(self.fetch_calendar(364)), 364)
+
+    def test_out_of_range_windows_fail(self):
+        for length in (363, 372):
+            with self.subTest(length=length), self.assertRaisesRegex(ValueError, "complete one-year"):
+                self.fetch_calendar(length)
+
+    def test_missing_days_still_fail(self):
+        for omitted in (1, 184, 367):
+            with self.subTest(omitted=omitted), self.assertRaisesRegex(ValueError, "complete one-year"):
+                self.fetch_calendar(369, omit=omitted)
+
+    def test_freshness_tolerance_is_preserved(self):
+        last = date(2026, 10, 15)
+        for offset in (-2, 0, 2):
+            with self.subTest(offset=offset):
+                self.assertEqual(len(self.fetch_calendar(369, today=last + timedelta(days=offset))), 369)
+
+    def test_stale_or_future_windows_still_fail(self):
+        last = date(2026, 10, 15)
+        for offset in (-3, 3):
+            with self.subTest(offset=offset), self.assertRaisesRegex(ValueError, "stale contribution"):
+                self.fetch_calendar(369, today=last + timedelta(days=offset))
+
+    def test_window_crossing_leap_day_is_contiguous(self):
+        days = self.fetch_calendar(369, first=date(2023, 10, 15))
+        self.assertEqual(len(days), 369)
+        self.assertIn("2024-02-29", [day["date"] for day in days])
+
+
 if __name__ == "__main__":
     unittest.main()
+
