@@ -4,7 +4,7 @@
 <rect x="0.5" y="0.5" width="979" height="354" rx="16" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="28" y="37" fill="#1f2328" font-size="20" font-weight="650" >Languages by source code</text>
 <text x="28" y="62" fill="#59636e" font-size="13" font-weight="400" >21 public repositories  /  notebook code cells only</text>
-<text x="952" y="37" fill="#59636e" font-size="11" font-weight="400" text-anchor="end">Updated 2026-10-16</text>
+<text x="952" y="37" fill="#59636e" font-size="11" font-weight="400" text-anchor="end">Updated 2026-10-17</text>
 <defs><clipPath id="bar"><rect x="28" y="81" width="924" height="15" rx="7.5"/></clipPath></defs><g clip-path="url(#bar)">
 <rect x="28.000" y="81" width="698.789" height="15" fill="#3572a5"/>
 <rect x="726.689" y="81" width="147.879" height="15" fill="#b07219"/>
