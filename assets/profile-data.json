@@ -1,6 +1,6 @@
 {
   "username": "chenj926",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "scope": "Owned public non-fork repositories, default branches; configured repositories excluded.",
   "excluded_repositories": [
     "chenj926",
@@ -1843,21 +1843,32 @@
     {
       "date": "2026-11-03",
       "level": 1,
-      "count": 1
+      "count": 3
+    },
+    {
+      "date": "2026-11-04",
+      "level": 4,
+      "count": 13
     }
   ],
   "languages": {
     "Python": 7006192,
     "Java": 1481875,
-    "JavaScript": 466972,
-    "CSS": 150393,
+    "JavaScript": 519540,
+    "CSS": 162075,
     "TypeScript": 83783,
-    "HTML": 59952,
-    "C": 8929,
+    "HTML": 61794,
+    "C++": 19966,
+    "Dart": 13595,
+    "CMake": 10522,
+    "C": 9663,
     "R": 3086,
     "Shell": 1762,
+    "Swift": 1521,
     "C#": 1385,
-    "SQL": 1193
+    "Ruby": 1365,
+    "SQL": 1193,
+    "Kotlin": 126
   },
   "repositories": [
     {
@@ -1899,6 +1910,23 @@
       "repository": "chenj926/AStar",
       "source_bytes": {
         "Java": 49757
+      },
+      "github_notebook_bytes": 0,
+      "notebooks": []
+    },
+    {
+      "repository": "chenj926/bcorn-widget",
+      "source_bytes": {
+        "JavaScript": 52568,
+        "C++": 19966,
+        "Dart": 13595,
+        "CSS": 11682,
+        "CMake": 10522,
+        "HTML": 1842,
+        "Swift": 1521,
+        "Ruby": 1365,
+        "C": 734,
+        "Kotlin": 126
       },
       "github_notebook_bytes": 0,
       "notebooks": []
