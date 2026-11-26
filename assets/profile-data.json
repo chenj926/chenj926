@@ -1,6 +1,6 @@
 {
   "username": "chenj926",
-  "as_of": "2026-11-25",
+  "as_of": "2026-11-26",
   "scope": "Owned public non-fork repositories, default branches; configured repositories excluded.",
   "excluded_repositories": [
     "chenj926",
@@ -1847,17 +1847,22 @@
     },
     {
       "date": "2026-11-25",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
+      "level": 1,
+      "count": 2
     }
   ],
   "languages": {
-    "Python": 7006192,
+    "Python": 7014781,
     "Java": 1481875,
-    "JavaScript": 519540,
-    "CSS": 162075,
-    "TypeScript": 83783,
-    "HTML": 61794,
+    "JavaScript": 545441,
+    "CSS": 358234,
+    "TypeScript": 273688,
+    "HTML": 60469,
     "C++": 19966,
     "Dart": 13595,
     "CMake": 10522,
@@ -2182,9 +2187,10 @@
     {
       "repository": "chenj926/portfolio",
       "source_bytes": {
-        "JavaScript": 246359,
-        "CSS": 121099,
-        "HTML": 1325
+        "CSS": 317258,
+        "JavaScript": 272260,
+        "TypeScript": 189905,
+        "Python": 8589
       },
       "github_notebook_bytes": 0,
       "notebooks": []

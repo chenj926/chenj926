@@ -4,38 +4,38 @@
 <rect x="0.5" y="0.5" width="979" height="354" rx="16" fill="#0d1117" stroke="#30363d"/>
 <text x="28" y="37" fill="#f0f6fc" font-size="20" font-weight="650" >Languages by source code</text>
 <text x="28" y="62" fill="#919baa" font-size="13" font-weight="400" >22 public repositories  /  notebook code cells only</text>
-<text x="952" y="37" fill="#919baa" font-size="11" font-weight="400" text-anchor="end">Updated 2026-11-25</text>
+<text x="952" y="37" fill="#919baa" font-size="11" font-weight="400" text-anchor="end">Updated 2026-11-26</text>
 <defs><clipPath id="bar"><rect x="28" y="81" width="924" height="15" rx="7.5"/></clipPath></defs><g clip-path="url(#bar)">
-<rect x="28.000" y="81" width="690.303" height="15" fill="#3572a5"/>
-<rect x="718.203" y="81" width="146.084" height="15" fill="#b07219"/>
-<rect x="864.188" y="81" width="51.282" height="15" fill="#c7aa10"/>
-<rect x="915.369" y="81" width="16.067" height="15" fill="#8b65ce"/>
-<rect x="931.336" y="81" width="8.354" height="15" fill="#3178c6"/>
-<rect x="939.589" y="81" width="6.188" height="15" fill="#e34c26"/>
-<rect x="945.677" y="81" width="2.067" height="15" fill="#f34b7d"/>
-<rect x="947.644" y="81" width="1.439" height="15" fill="#8b949e"/>
-<rect x="948.983" y="81" width="1.137" height="15" fill="#8b949e"/>
-<rect x="950.020" y="81" width="1.052" height="15" fill="#7d8b99"/>
-<rect x="950.972" y="81" width="1.128" height="15" fill="#84929f"/>
+<rect x="28.000" y="81" width="661.583" height="15" fill="#3572a5"/>
+<rect x="689.483" y="81" width="139.839" height="15" fill="#b07219"/>
+<rect x="829.222" y="81" width="51.534" height="15" fill="#c7aa10"/>
+<rect x="880.656" y="81" width="33.881" height="15" fill="#8b65ce"/>
+<rect x="914.437" y="81" width="25.908" height="15" fill="#3178c6"/>
+<rect x="940.245" y="81" width="5.802" height="15" fill="#e34c26"/>
+<rect x="945.948" y="81" width="1.983" height="15" fill="#f34b7d"/>
+<rect x="947.830" y="81" width="1.382" height="15" fill="#8b949e"/>
+<rect x="949.112" y="81" width="1.092" height="15" fill="#8b949e"/>
+<rect x="950.105" y="81" width="1.011" height="15" fill="#7d8b99"/>
+<rect x="951.016" y="81" width="1.084" height="15" fill="#84929f"/>
 </g>
 <circle cx="33" cy="122" r="5" fill="#3572a5"/>
 <text x="47" y="127" fill="#f0f6fc" font-size="14" font-weight="500" >Python</text>
-<text x="461" y="127" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">74.7%</text>
+<text x="461" y="127" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">71.6%</text>
 <circle cx="508" cy="122" r="5" fill="#b07219"/>
 <text x="522" y="127" fill="#f0f6fc" font-size="14" font-weight="500" >Java</text>
-<text x="936" y="127" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">15.8%</text>
+<text x="936" y="127" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">15.1%</text>
 <circle cx="33" cy="152" r="5" fill="#c7aa10"/>
 <text x="47" y="157" fill="#f0f6fc" font-size="14" font-weight="500" >JavaScript</text>
-<text x="461" y="157" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">5.5%</text>
+<text x="461" y="157" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">5.6%</text>
 <circle cx="508" cy="152" r="5" fill="#8b65ce"/>
 <text x="522" y="157" fill="#f0f6fc" font-size="14" font-weight="500" >CSS</text>
-<text x="936" y="157" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">1.7%</text>
+<text x="936" y="157" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">3.7%</text>
 <circle cx="33" cy="182" r="5" fill="#3178c6"/>
 <text x="47" y="187" fill="#f0f6fc" font-size="14" font-weight="500" >TypeScript</text>
-<text x="461" y="187" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">0.9%</text>
+<text x="461" y="187" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">2.8%</text>
 <circle cx="508" cy="182" r="5" fill="#e34c26"/>
 <text x="522" y="187" fill="#f0f6fc" font-size="14" font-weight="500" >HTML</text>
-<text x="936" y="187" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">0.7%</text>
+<text x="936" y="187" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">0.6%</text>
 <circle cx="33" cy="212" r="5" fill="#f34b7d"/>
 <text x="47" y="217" fill="#f0f6fc" font-size="14" font-weight="500" >C++</text>
 <text x="461" y="217" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">0.2%</text>
@@ -47,7 +47,7 @@
 <text x="461" y="247" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">0.1%</text>
 <circle cx="508" cy="242" r="5" fill="#7d8b99"/>
 <text x="522" y="247" fill="#f0f6fc" font-size="14" font-weight="500" >C</text>
-<text x="936" y="247" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">0.1%</text>
+<text x="936" y="247" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">0.10%</text>
 <circle cx="33" cy="272" r="5" fill="#84929f"/>
 <text x="47" y="277" fill="#f0f6fc" font-size="14" font-weight="500" >Other</text>
 <text x="461" y="277" fill="#919baa" font-size="14" font-weight="400" text-anchor="end">0.1%</text>
